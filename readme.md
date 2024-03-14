@@ -52,4 +52,4 @@ No desenvolvimento foram utilizadas:
 ### Sobre a pasta html
 * Contém os arquivos html, css e javascript gerados pela aplicação Doxygen com o intuito de documentar o projeto e suas bibliotecas
 
-🚀 | Aplicação desenvolvida por Pedro Gonçalves Correia e Pedro Enrico Barchi Nogueira (@Pedro-bnogueira)
+🚀 | Aplicação desenvolvida por Pedro Gonçalves Correia e Pedro Enrico Barchi Nogueira
